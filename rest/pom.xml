@@ -8,7 +8,7 @@
 
 	<properties>
 		<springframework.version>4.2.0.RELEASE</springframework.version>
-		<jackson.version>2.8.11.1</jackson.version>
+		<jackson.version>RELEASE</jackson.version>
 	</properties>
 	<dependencies>
 		<dependency>
